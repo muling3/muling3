@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muling3&label=Profile%20views&color=0e75b6&style=flat" alt="muling3" /> </p>
 
-- 💬 Ask me about **Java, Spring & Spring boot, MEAN & MERN stacks, Javascript, Go**
+- 💬 Ask me about **Java, Spring & Spring boot, MEAN & MERN, Javascript, Go, Kubernetes, Docker, Apache Kafka, RabbitMQ**
 
 - 📫 How to reach me **alexandermuli234@gmail.com**
 
